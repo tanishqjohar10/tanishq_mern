@@ -1,0 +1,84 @@
+{
+  "users": [
+    {
+      "firstname": "Aditya",
+      "lastname": "Ranjan",
+      "email": "adityapcs21@gmail.com",
+      "phone": "09534992877",
+      "address": "NC 4A sbi colony lohia nagar kankarbagh",
+      "id": 9
+    },
+    {
+      "firstname": "Aman",
+      "lastname": "Abhishek",
+      "email": "aman@gmail.com",
+      "phone": "9534992877",
+      "address": "pune",
+      "id": 10
+    },
+    {
+      "firstname": "Aman",
+      "lastname": "Abhishek",
+      "email": "amannlaf",
+      "phone": "9876543210",
+      "address": "patna",
+      "LinkedIn": "aditya",
+      "GitHub": "afkjbafs",
+      "Facebook": "afjkjafbj",
+      "hobbies": "Fasdfjkasdbf",
+      "id": 12
+    },
+    {
+      "firstname": "manita",
+      "lastname": "sinha",
+      "email": "manitasinha@gmail.com",
+      "phone": "9876543210",
+      "address": "Patna",
+      "LinkedIn": "amana",
+      "GitHub": "goit",
+      "Facebook": "aditya",
+      "hobbies": "Cricket",
+      "id": 13
+    },
+    {
+      "firstname": "satyendra",
+      "lastname": "prased",
+      "email": "satyen@gmail.com",
+      "phone": "345678999",
+      "address": "lkanfalfkn",
+      "LinkedIn": "linkdin",
+      "GitHub": "github",
+      "Facebook": "facebook",
+      "hobbies": "Akjfbafba f",
+      "id": 14
+    },
+    {
+      "LinkedIn": "adityalinkedin",
+      "GitHub": "adityagithub",
+      "Facebook": "adityafacebook",
+      "hobbies": "Cricket",
+      "id": 15
+    },
+    {
+      "LinkedIn": "wefnwegil ",
+      "GitHub": "werwetwet",
+      "Facebook": "werwetwet",
+      "hobbies": "Wrwetw",
+      "id": 16
+    },
+    {
+      "LinkedIn": "aaaaaaaaaaaaaaaa",
+      "GitHub": "ssssssssssssssssssss",
+      "Facebook": "aaaaaaaaaaaaaaaaa",
+      "hobbies": "Ddddddddddddddddddddddd",
+      "id": 17
+    },
+    {
+      "LinkedIn": "qwertyui",
+      "GitHub": "sssssssssssssss",
+      "Facebook": "aaaaaaaaaaaaaa",
+      "hobbies": "Ddddddddddddddd",
+      "id": 18
+    }
+  ]
+}
